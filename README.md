@@ -1,2 +1,2 @@
 # userinputScanner
-Taking user input in Java 
+Taking user input in Java using scanner class
